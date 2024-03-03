@@ -33,15 +33,6 @@
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Unraid](https://img.shields.io/badge/unraid-%23F15A2C.svg?style=for-the-badge&logo=unraid&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 
 
-## What is RPH?
-
-**That is the "company" name for my work.**
-
-**I make/play around with almost any form of IT.**
-
-## Linux 
-
-**I am a big fan of linux and shell so a lot of my stuff is going to focus on that.**
 
 <!--
 **rune004/rune004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
