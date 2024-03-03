@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rune004&show_icons=true&theme=transparent)
+![Rune004's GitHub stats](https://github-readme-stats.vercel.app/api?username=rune004\&show_icons=true\&theme=transparent\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RunesRepoHub&repo=RRHQD&theme=transparent)](https://github.com/RunesRepoHub/RRHQD) 
 
